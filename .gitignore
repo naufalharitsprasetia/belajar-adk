@@ -1,2 +1,3 @@
 /venv
 /multi-agent/__pycache__
+/multi-agent/.env

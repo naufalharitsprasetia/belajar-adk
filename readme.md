@@ -1,6 +1,7 @@
 # BELAJAR ADK - Naufal Harits Prasetia
 
 ## Tutorial :
+buat .env , isi GOOGLE_API_KEY= dengan apikey anda, di ai.studio.google
 
 ```bash
 python -m venv venv # buat virtual enviroment
